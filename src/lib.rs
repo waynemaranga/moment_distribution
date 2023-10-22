@@ -1,9 +1,5 @@
 #![allow(unused)]
 
-fn main() {
-    println!("Hello, world!");
-}
-
 struct Beam {
     spans: Vec<Span>,
     nodes: Vec<Node>,
